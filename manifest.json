@@ -9,14 +9,15 @@
   "orientation": "portrait",
   "icons": [
     {
-      "src": "https://www.castingscinetv.com/icon-192.png",
+      "src": "https://www.castingscinetv.com/favicon.ico",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "https://www.castingscinetv.com/icon-512.png",
+      "src": "https://www.castingscinetv.com/favicon.ico",
       "sizes": "512x512",
       "type": "image/png"
     }
   ]
+
 }
