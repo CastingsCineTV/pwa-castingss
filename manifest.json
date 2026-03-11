@@ -1,0 +1,22 @@
+{
+  "name": "Castings CineTV",
+  "short_name": "Castings",
+  "description": "Castings y Audiciones para actores, actrices y modelos",
+  "start_url": "https://www.castingscinetv.com/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "https://www.castingscinetv.com/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://www.castingscinetv.com/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
